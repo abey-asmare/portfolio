@@ -1,0 +1,99 @@
+body {
+  position: relative;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+.greet h1 {
+  font-size: 2rem;
+  font-weight: bold;
+
+}
+
+.greet p {
+  font-size: 1.5rem;
+}
+.greet {
+  margin: 3% 15% auto;
+}
+
+.greet img {
+  height: 150px;
+  width : 150px;
+  margin: 10%;
+}
+
+
+.about-me {
+margin: 15% auto;
+width: 75%;
+}
+p {
+  font-size: 1.2rem;
+}
+
+.card-body p {
+  font-size: 1rem;
+  text-align: left;
+}
+
+
+nav{
+  margin: 2% 0;
+    }
+
+nav a  {
+position:relative;
+left: 40%;
+}
+
+.btn {
+border-width: 2px;
+font-size: 18px;
+ }
+
+
+.testimonial {
+  margin: 15% auto;
+}
+
+.testimonial img {
+  height: 100px;
+  width: 100px;
+  margin: 5%;
+}
+.testimonial .icons {
+  background-color: #B0DAFF;
+}
+.comment {
+  font-size: 1.7rem;
+  padding: 5% 20%;
+}
+
+.what-can-i-do {
+  margin: 0 11.5%;
+}
+
+.about-me p {
+  text-align: left;
+}
+
+.forms {
+  margin: 5% 25% 10% 25%;
+  text-align: left;
+}
+
+.contact-me {
+  margin-top: 5%;
+}
+
+.contact-me img {
+  height: 150px;
+  width: 150px;
+}
